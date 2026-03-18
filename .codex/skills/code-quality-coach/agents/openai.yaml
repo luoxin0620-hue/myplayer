@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Quality Coach"
+  short_description: "Scores code, design, and teaches better habits"
+  default_prompt: "Use $code-quality-coach to evaluate this code for implementation quality, design, coupling, and architecture improvement opportunities."
